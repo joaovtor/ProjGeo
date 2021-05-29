@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjGeo", "ProjGeo.vcxproj", "{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}.Debug|x64.ActiveCfg = Debug|x64
+		{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}.Debug|x64.Build.0 = Debug|x64
+		{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}.Debug|x86.Build.0 = Debug|Win32
+		{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}.Release|x64.ActiveCfg = Release|x64
+		{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}.Release|x64.Build.0 = Release|x64
+		{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}.Release|x86.ActiveCfg = Release|Win32
+		{CCB85CF3-19C4-4C2B-8271-0BBCF24DDD8C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3451876-8A03-49CD-9B19-C571059E0F63}
+	EndGlobalSection
+EndGlobal
